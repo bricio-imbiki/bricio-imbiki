@@ -59,7 +59,7 @@
 📫 **Email:** [bricio.imbiki15@gmail.com](mailto:bricio.imbiki15@gmail.com)  
 🌐 **Portfolio:** [imbikibricio.vercel.app](https://imbikibricio.vercel.app)  
 💼 **LinkedIn:** [linkedin.com/in/bricioimbiki](https://www.linkedin.com/in/bricio-imbiki-64a4b0364)
-🐙 **GitHub:** [github.com/bricioimbiki](https://github.com/bricioimbiki)
+
 
 > **Open to collaboration, freelance, or tech-for-good projects!** 🚀
 
