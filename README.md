@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm **Bricio Imbiki**!
 
-**Full-Stack Developer** | **MSc Computer Science** @ **University of Toamasina**  
+**Full-Stack Developer** | **Master’s Degree in Computer Science**  
+*Université de Toamasina, Madagascar*  
 *Building scalable web solutions for real-world impact — from Madagascar to the world.*
 
 ---
@@ -64,7 +65,7 @@
 
 📫 **Email:** [bricio.imbiki15@gmail.com](mailto:bricio.imbiki15@gmail.com)  
 🌐 **Portfolio:** [imbikibricio.vercel.app](https://imbikibricio.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/bricioimbiki](https://linkedin.com/in/bricioimbiki)
+💼 **LinkedIn:** [linkedin.com/in/bricioimbiki](https://www.linkedin.com/in/bricio-imbiki-64a4b0364)
 🐙 **GitHub:** [github.com/bricioimbiki](https://github.com/bricioimbiki)
 
 > **Open to collaboration, freelance, or tech-for-good projects!** 🚀
