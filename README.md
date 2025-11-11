@@ -1,14 +1,13 @@
-# Hi there, I'm **Bricio Imbiki**!
+# 👋 Hi there, I'm **Bricio Imbiki**!
 
-**Full-Stack Developer** | **Master’s Degree in Computer Science**  
-*Université de Toamasina, Madagascar*  
-*Building scalable web apps that empower local communities — from code to impact.*
+**Full-Stack Developer** | **MSc Computer Science** @ **University of Toamasina**  
+*Building scalable web solutions for real-world impact — from Madagascar to the world.*
 
 ---
 
-## Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-### Programming Languages
+### 👨‍💻 **Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -16,7 +15,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
-### Frameworks & Libraries
+### 🌐 **Frameworks & Libraries**
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -24,14 +23,14 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 </p>
 
-### Databases
+### 🗄️ **Databases**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
 
-### DevOps & Tools
+### ⚙️ **DevOps & Tools**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background:white; border-radius:10px"/>
@@ -41,20 +40,24 @@
 
 ---
 
-## What I’m Working On
+## 🚀 **What I’m Working On**
 
-- **AfroJourney** — *Core contributor to Madagascar’s 1st interactive community travel map*  
-  *(React + Mapbox + Laravel/Node.js backend)*
-- Deepening expertise in **Software Architecture**, **Cloud Systems**, and **Scalable APIs**
-- Passion project: **AI for local tourism insights**
+- **AfroJourney** — *Contributing to the 1st interactive community travel map of Madagascar* 🗺️  
+  *(React + Mapbox + Node.js backend)*
+- Mastering **Software Architecture**, **Cloud Computing**, and **Scalable Systems**
+- Exploring **AI & Data Science** as a passion project
 
-> *“I don’t just write code — I build bridges between technology and people.”*
+> *“Code is poetry. I write solutions that empower communities.”*
 
 ---
 
-## Let’s Connect!
+## 🤝 **Let’s Connect!**
 
-Email: [bricio.imbiki15@gmail.com](mailto:bricio.imbiki15@gmail.com)  
-Portfolio: [imbikibricio.vercel.app](https://imbikibricio.vercel.app)  
-LinkedIn: [linkedin.com/in/bricioimbiki](https://linkedin.com/in/bricioimbiki)
-GitHub: [github.com/bricioimbiki](https://github.com/bricioimbiki)
+📫 **Email:** [bricio.imbiki15@gmail.com](mailto:bricio.imbiki15@gmail.com)  
+🌐 **Portfolio:** [imbikibricio.vercel.app](https://imbikibricio.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/bricioimbiki](https://linkedin.com/in/bricioimbiki) *(add if exists)*  
+🐙 **GitHub:** [github.com/bricioimbiki](https://github.com/bricioimbiki)
+
+> **Open to collaboration, freelance, or tech-for-good projects!** 🚀
+
+---
