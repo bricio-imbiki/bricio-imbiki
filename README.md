@@ -1,8 +1,13 @@
-# 👋 Hi there, I'm Bricio Imbiki!
-I'm a passionate **Full-Stack Developer** currently pursuing a **Master's degree in Computer Science** at the **University of Toamasina**. I love building scalable web applications and solving real-world problems through technology.
+# 👋 Hi there, I'm **Bricio Imbiki**!
+
+**Full-Stack Developer** | **MSc Computer Science** @ **University of Toamasina**  
+*Building scalable web solutions for real-world impact — from Madagascar to the world.*
+
 ---
+
 ## 🛠️ Tech Stack & Skills
-### 👨‍💻 Programming Languages
+
+### 👨‍💻 **Programming Languages**
 <p align="left">
  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -15,7 +20,8 @@ I'm a passionate **Full-Stack Developer** currently pursuing a **Master's degree
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 </p>
-### 🌐 Web Development
+
+### 🌐 **Frameworks & Libraries**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
@@ -25,26 +31,42 @@ I'm a passionate **Full-Stack Developer** currently pursuing a **Master's degree
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
 </p>
-### 🗄️ Databases
+
+### 🗄️ **Databases**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
-### 🛠️ Development Tools & Workflow
+
+### ⚙️ **DevOps & Tools**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: whiteborder-radius: 10px;" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background:white; border-radius:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
+
 ---
-## 📈 What I’m Working On
-🚧 Currently improving my **software architecture and cloud computing** skills.
-🔍 Exploring **AI & Data Science** as a side passion.
-📖 Always learning and keeping up with **emerging web technologies**.
+
+## 🚀 **What I’m Working On**
+
+- **AfroJourney** — *Contributing to the 1st interactive community travel map of Madagascar* 🗺️  
+  *(React + Mapbox + Node.js backend)*
+- Mastering **Software Architecture**, **Cloud Computing**, and **Scalable Systems**
+- Exploring **AI & Data Science** as a passion project
+
+> *“Code is poetry. I write solutions that empower communities.”*
+
 ---
-## 🤝 Let's Connect!
-📫 **Email:** [bricio.imbiki15@gmail.com](mailto:bricio.imbiki15@gmail.com)
-🌐 **Portfolio:** [imbikibricio.vercel.app](https://imbikibricio.vercel.app/)
-💬 **Let’s collaborate and build something great!** 🚀
+
+## 🤝 **Let’s Connect!**
+
+📫 **Email:** [bricio.imbiki15@gmail.com](mailto:bricio.imbiki15@gmail.com)  
+🌐 **Portfolio:** [imbikibricio.vercel.app](https://imbikibricio.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/bricioimbiki](https://linkedin.com/in/bricioimbiki) *(add if exists)*  
+🐙 **GitHub:** [github.com/bricioimbiki](https://github.com/bricioimbiki)
+
+> **Open to collaboration, freelance, or tech-for-good projects!** 🚀
+
+---
