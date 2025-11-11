@@ -1,4 +1,4 @@
-update my readme github # 👋 Hi there, I'm Bricio Imbiki!
+# 👋 Hi there, I'm Bricio Imbiki!
 I'm a passionate **Full-Stack Developer** currently pursuing a **Master's degree in Computer Science** at the **University of Toamasina**. I love building scalable web applications and solving real-world problems through technology.
 ---
 ## 🛠️ Tech Stack & Skills
