@@ -47,7 +47,6 @@
 ## 🚀 **What I’m Working On**
 
 - **AfroJourney** — *Contributing to the 1st interactive community travel map of Madagascar* 🗺️  
-  *(React + Mapbox + Node.js backend)*
 - Mastering **Software Architecture**, **Cloud Computing**, and **Scalable Systems**
 - Exploring **AI & Data Science** as a passion project
 
