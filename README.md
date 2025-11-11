@@ -2,7 +2,7 @@
 I'm a passionate **Full-Stack Developer** currently pursuing a **Master's degree in Computer Science** at the **University of Toamasina**. I love building scalable web applications and solving real-world problems through technology.
 ---
 ## 🛠️ Tech Stack & Skills
-### **👨‍💻 Programming Languages**
+### 👨‍💻 Programming Languages
 <p align="left">
  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -15,7 +15,7 @@ I'm a passionate **Full-Stack Developer** currently pursuing a **Master's degree
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 </p>
-### **🌐 Web Development**
+### 🌐 Web Development
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
@@ -25,13 +25,13 @@ I'm a passionate **Full-Stack Developer** currently pursuing a **Master's degree
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
 </p>
-### **🗄️ Databases**
+### 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
-### **🛠️ Development Tools & Workflow**
+### 🛠️ Development Tools & Workflow
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: whiteborder-radius: 10px;" alt="GitHub" width="50" height="50"/>
