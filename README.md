@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Bricio Imbiki**!
 
 **Full-Stack Developer** | **Master’s Degree in Computer Science**  
-*Université de Toamasina, Madagascar*  
+*University of Toamasina, Madagascar*  
 *Building scalable web solutions for real-world impact — from Madagascar to the world.*
 
 ---
